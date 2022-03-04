@@ -64,11 +64,11 @@ setup(
             'uvicorn',
             'weaviate-client~=3.3.0',
             'pqlite>=0.2.1',
-            'qdrant-client~=0.6.0',
+            'qdrant-client~=0.7.0',
             'strawberry-graphql',
         ],
         'qdrant': [
-            'qdrant-client~=0.6.0',
+            'qdrant-client~=0.7.0',
         ],
         'test': [
             'pytest',
